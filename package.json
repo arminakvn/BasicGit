@@ -1,0 +1,19 @@
+{
+  "name": "basicgit",
+  "version": "1.0.0",
+  "description": "a basic node package git project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arminakvn/BasicGit.git"
+  },
+  "author": "arminakvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arminakvn/BasicGit/issues"
+  },
+  "homepage": "https://github.com/arminakvn/BasicGit#readme"
+}
